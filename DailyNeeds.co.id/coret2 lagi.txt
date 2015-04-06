@@ -1,0 +1,17 @@
+A : diabetes. Makanan larangan : gula, sirup
+B : jantung. Makanan larangan : kambing, kentang goreng
+C : jantung. Makanan larangan : kambing, kentang goreng
+D : diabetes. Makanan larangan : gula, sirup
+E : hipertensi. Makanan larangan : daging, kambing
+F : diabetes. Makanan larangan : gula, sirup
+G : hipertensi. Makanan larangan : daging, kambing
+
+
+
+PENYAKIT UNTUK MENGHAPUS PRODUK.
+DI ANTARA ORANG DENGAN PENYAKIT SAMA, DILAKUKAN USER-BASED CF UNTUK REKOMENDASI
+
+ATAU
+
+Dicari item rekomendasi dengan item-based collaborative filtering
+Kurangi produk yang buat penyakit

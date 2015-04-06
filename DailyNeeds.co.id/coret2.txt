@@ -1,0 +1,11 @@
+Perancangan Sistem E-Commerce Penjualan Produk Kebutuhan Harian Multi-Suppliers Dalam Satu Kota di Indonesia
+
+Perancangan Sistem Rekomendasi E-Commerce Penjualan Produk Kebutuhan Harian Melalui Informasi Resep Makanan
+
+
+
+Mencari kentang -> tawarkan resep makanan dari kentang, tawarkan produk yang juga biasa dibeli bersama dengan kentang
+Memasukkan kentang ke keranjang -> tawarkan resep makanan dari kentang
+Mencari resep berdasarkan kata kunci kentang -> menampilkan resep yang berbahan dasar kentang
+Sering membeli kentang dan beberapa bahan lain -> tawarkan resep makanan dari kentang dan melibatkan bahan lain tersebut, lakukan pemeringkatan untuk resep dengan bahan yang paling sering dicari.
+

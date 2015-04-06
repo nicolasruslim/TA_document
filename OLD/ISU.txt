@@ -1,0 +1,20 @@
+1. Keamanan
+2. Efisiensi (waktu proses load website oleh user, waktu pemrosesan order oleh perusahaan)
+3. Data yang ditangani lebih besar --> maintenance, jumlah server, biaya
+
+Source (01)
+4. Analogi online customer dengan offline customer : bagaimana perusahaan memperlakukan keduanya
+	Pushy Sales --> Website seaakan tidak peduli dengan minat dari pengunjung dan berusaha mendorong pengunjung untuk membeli dengan berbagai popup dan halaman penuh iklan yang seakan meneriaki pengunjung.
+	No-Service Sales --> Tidak ada pelayanan bagi calon pembeli untuk memberi petunjuk bagi calon pembeli. Karena kebingungan pembeli akhirnya meninggalkan toko
+	No data --> Tidak ada data calon customer potensial, akibatnya spamming seperti kotak surat di dunia nyata dipenuhi oleh brosur dan pamflet.
+	Wrong data --> Data yang terlalu banyak dan menganggu proses itu sendiri bahkan tidak disukai konsumen karena dirasa melanggar privasi.
+
+
+Source (02)
+5. Proses pengiriman barang
+
+
+6. Data yang diperlukan apa saja
+
+
+7. Isu privasi

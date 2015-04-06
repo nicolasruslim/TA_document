@@ -1,0 +1,505 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1099" measuredH="770" mockupW="1073" mockupH="770">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="26" y="0" w="1073" h="770" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>e-kosan.com%20%7C%20Informasi%20Kosan%20Bandung%0Ahttp%3A//e-kosan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="215" y="154" w="875" h="580" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1068" y="169" w="-1" h="547" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Title" x="50" y="102" w="145" h="-1" measuredW="145" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>e-kosan.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="296" y="103" w="328" h="-1" measuredW="190" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pilih%20Kosan%20Sesuai%20Kampus</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="951" y="99" w="102" h="27" measuredW="89" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pemilik%20Kos</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::HRule" x="31" y="150" w="183" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Canvas" x="296" y="170" w="697" h="98" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Title" x="535" y="198" w="-1" h="-1" measuredW="198" measuredH="43" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Slide%20Show</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="240" y="290" w="219" h="280" measuredW="219" measuredH="280" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="219" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="53"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="14" y="27" w="191" h="123" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="53">
+          <controlProperties>
+            <text>GAMBAR</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="14" y="150" w="148" h="-1" measuredW="161" measuredH="17" zOrder="2" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Jl.%20Bangbayang%20No%2037%20RT%2001/08%20-%20Dago</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="44" y="3" w="161" h="-1" measuredW="146" measuredH="23" zOrder="3" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>20</size>
+            <text>Rp.%20500.000/Bln</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="14" y="170" w="63" h="-1" measuredW="69" measuredH="17" zOrder="4" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Kamar%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="18" y="182" w="111" h="-1" measuredW="121" measuredH="17" zOrder="5" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Lemari%2C%20Kamar%20Mandi%20dalam...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="14" y="199" w="62" h="-1" measuredW="67" measuredH="17" zOrder="6" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="18" y="211" w="79" h="-1" measuredW="86" measuredH="17" zOrder="7" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Dapur%2C%20Parkir%20Motor%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="12" y="243" w="84" h="27" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Lihat%20Kosan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="102" y="243" w="107" h="27" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>9</size>
+            <text>Petunjuk%20Lokasi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="704" y="290" w="206" h="280" measuredW="206" measuredH="280" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="206" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="55"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="13" y="27" w="180" h="123" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="55">
+          <controlProperties>
+            <text>GAMBAR</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="13" y="150" w="139" h="-1" measuredW="161" measuredH="17" zOrder="2" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Jl.%20Bangbayang%20No%2037%20RT%2001/08%20-%20Dago</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="42" y="3" w="151" h="-1" measuredW="146" measuredH="23" zOrder="3" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>20</size>
+            <text>Rp.%20700.000/Bln</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="13" y="170" w="60" h="-1" measuredW="69" measuredH="17" zOrder="4" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Kamar%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="17" y="182" w="105" h="-1" measuredW="121" measuredH="17" zOrder="5" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Lemari%2C%20Kamar%20Mandi%20dalam...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="13" y="199" w="58" h="-1" measuredW="67" measuredH="17" zOrder="6" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="17" y="211" w="74" h="-1" measuredW="86" measuredH="17" zOrder="7" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Dapur%2C%20Parkir%20Motor%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="11" y="243" w="79" h="27" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Lihat%20Kosan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="96" y="243" w="100" h="27" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="55">
+          <controlProperties>
+            <size>9</size>
+            <text>Petunjuk%20Lokasi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="66" controlTypeID="__group__" x="240" y="576" w="219" h="143" measuredW="219" measuredH="143" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C998%2C510</crop>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="219" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="66"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="14" y="27" w="191" h="123" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="66">
+          <controlProperties>
+            <text>GAMBAR</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="14" y="150" w="148" h="-1" measuredW="161" measuredH="17" zOrder="2" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Jl.%20Bangbayang%20No%2037%20RT%2001/08%20-%20Dago</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="44" y="3" w="161" h="-1" measuredW="146" measuredH="23" zOrder="3" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>20</size>
+            <text>Rp.%20700.000/Bln</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="14" y="170" w="63" h="-1" measuredW="69" measuredH="17" zOrder="4" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Kamar%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="18" y="182" w="111" h="-1" measuredW="121" measuredH="17" zOrder="5" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Lemari%2C%20Kamar%20Mandi%20dalam...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="14" y="199" w="62" h="-1" measuredW="67" measuredH="17" zOrder="6" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="18" y="211" w="79" h="-1" measuredW="86" measuredH="17" zOrder="7" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Dapur%2C%20Parkir%20Motor%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="12" y="243" w="84" h="27" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Lihat%20Kosan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="102" y="243" w="107" h="27" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="66">
+          <controlProperties>
+            <size>9</size>
+            <text>Petunjuk%20Lokasi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="72" controlTypeID="__group__" x="474" y="576" w="219" h="143" measuredW="219" measuredH="143" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C998%2C510</crop>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="219" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="72"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="14" y="27" w="191" h="123" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>GAMBAR</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="14" y="150" w="148" h="-1" measuredW="161" measuredH="17" zOrder="2" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Jl.%20Bangbayang%20No%2037%20RT%2001/08%20-%20Dago</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="44" y="3" w="161" h="-1" measuredW="146" measuredH="23" zOrder="3" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>20</size>
+            <text>Rp.%20650.000/Bln</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="14" y="170" w="63" h="-1" measuredW="69" measuredH="17" zOrder="4" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Kamar%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="18" y="182" w="111" h="-1" measuredW="121" measuredH="17" zOrder="5" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Lemari%2C%20Kamar%20Mandi%20dalam...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="14" y="199" w="62" h="-1" measuredW="67" measuredH="17" zOrder="6" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="18" y="211" w="79" h="-1" measuredW="86" measuredH="17" zOrder="7" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Dapur%2C%20Parkir%20Motor%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="12" y="243" w="84" h="27" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Lihat%20Kosan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="102" y="243" w="107" h="27" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="72">
+          <controlProperties>
+            <size>9</size>
+            <text>Petunjuk%20Lokasi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="73" controlTypeID="__group__" x="704" y="576" w="206" h="143" measuredW="206" measuredH="143" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C998%2C510</crop>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="206" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="73"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="13" y="27" w="180" h="123" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="73">
+          <controlProperties>
+            <text>GAMBAR</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="13" y="150" w="139" h="-1" measuredW="161" measuredH="17" zOrder="2" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Jl.%20Bangbayang%20No%2037%20RT%2001/08%20-%20Dago</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="41" y="3" w="151" h="-1" measuredW="145" measuredH="23" zOrder="3" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>20</size>
+            <text>Rp.%20550.000/Bln</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="13" y="170" w="59" h="-1" measuredW="69" measuredH="17" zOrder="4" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Kamar%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="17" y="182" w="104" h="-1" measuredW="121" measuredH="17" zOrder="5" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Lemari%2C%20Kamar%20Mandi%20dalam...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="13" y="199" w="58" h="-1" measuredW="67" measuredH="17" zOrder="6" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="17" y="211" w="74" h="-1" measuredW="86" measuredH="17" zOrder="7" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Dapur%2C%20Parkir%20Motor%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="11" y="243" w="79" h="27" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Lihat%20Kosan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="96" y="243" w="101" h="27" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="73">
+          <controlProperties>
+            <size>9</size>
+            <text>Petunjuk%20Lokasi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Canvas" x="923" y="291" w="130" h="410" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Title" x="938" y="475" w="92" h="-1" measuredW="69" measuredH="43" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ads</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="__group__" x="222" y="103" w="30" h="29" measuredW="30" measuredH="29" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="30" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="87"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="10" w="30" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="87"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="19" w="30" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="87"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="88" controlTypeID="__group__" x="474" y="290" w="215" h="280" measuredW="215" measuredH="280" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="215" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="88"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="14" y="27" w="188" h="123" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>GAMBAR</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="14" y="150" w="145" h="-1" measuredW="161" measuredH="17" zOrder="2" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Jl.%20Bangbayang%20No%2037%20RT%2001/08%20-%20Dago</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="43" y="3" w="158" h="-1" measuredW="146" measuredH="23" zOrder="3" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>20</size>
+            <text>Rp.%20350.000/Bln</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="14" y="170" w="62" h="-1" measuredW="69" measuredH="17" zOrder="4" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Kamar%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="18" y="182" w="109" h="-1" measuredW="121" measuredH="17" zOrder="5" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Lemari%2C%20Kamar%20Mandi%20dalam...</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="14" y="199" w="61" h="-1" measuredW="67" measuredH="17" zOrder="6" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="18" y="211" w="78" h="-1" measuredW="86" measuredH="17" zOrder="7" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Dapur%2C%20Parkir%20Motor%20...</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="12" y="243" w="82" h="27" measuredW="70" measuredH="27" zOrder="8" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Lihat%20Kosan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="100" y="243" w="105" h="27" measuredW="87" measuredH="27" zOrder="9" locked="false" isInGroup="88">
+          <controlProperties>
+            <size>9</size>
+            <text>Petunjuk%20Lokasi</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="89" controlTypeID="__group__" x="51" y="169" w="148" h="507" measuredW="148" measuredH="507" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="143" measuredH="23" zOrder="0" locked="false" isInGroup="89">
+          <controlProperties>
+            <size>20</size>
+            <text>Filter%20Pencarian</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="46" w="148" h="109" measuredW="148" measuredH="109" zOrder="1" locked="false" isInGroup="89">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="99" measuredH="21" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Fasilitas%20Kamar%20%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="21" w="-1" h="-1" measuredW="99" measuredH="22" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Tempat%20Tidur</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="43" w="-1" h="-1" measuredW="61" measuredH="22" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Lemari</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="65" w="-1" h="-1" measuredW="49" measuredH="22" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Meja</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="87" w="-1" h="-1" measuredW="140" measuredH="22" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Kamar%20Mandi%20Dalam</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="179" w="-1" h="-1" measuredW="96" measuredH="21" zOrder="2" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Fasilitas%20Umum%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="200" w="-1" h="-1" measuredW="113" measuredH="22" zOrder="3" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Dapur%20Bersama</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="222" w="-1" h="-1" measuredW="108" measuredH="22" zOrder="4" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Ruangan%20Tamu</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="244" w="-1" h="-1" measuredW="92" measuredH="22" zOrder="5" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Parkir%20Motor</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::CheckBox" x="8" y="266" w="-1" h="-1" measuredW="88" measuredH="22" zOrder="6" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Parkir%20Mobil</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="315" w="-1" h="-1" measuredW="148" measuredH="24" zOrder="7" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Pilih%20Lokasi%20Kampus</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::RadioButton" x="8" y="385" w="-1" h="-1" measuredW="122" measuredH="22" zOrder="8" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>200%20-%20500%20/%20Bulan</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="0" y="364" w="-1" h="-1" measuredW="138" measuredH="21" zOrder="9" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Harga%20Kosan%20Perbulan%20%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::RadioButton" x="8" y="407" w="-1" h="-1" measuredW="116" measuredH="22" zOrder="10" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>600%20-%201%20jt%20/%20Bulan</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::RadioButton" x="8" y="429" w="-1" h="-1" measuredW="127" measuredH="22" zOrder="11" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>1.1%20jt%20-%201.5%20jt%20/%20Bulan</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="0" y="480" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="12" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Submit</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="66" y="480" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="13" locked="false" isInGroup="89">
+          <controlProperties>
+            <text>Reset</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

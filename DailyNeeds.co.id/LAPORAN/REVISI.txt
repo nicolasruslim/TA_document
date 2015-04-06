@@ -1,0 +1,2 @@
+1. Survei + Lampiran
+2. Proses bisnis (activity diagram)

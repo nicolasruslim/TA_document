@@ -1,0 +1,9 @@
+1. Information Retrieval
+Information retrieval is about fulfilling immediate queries
+2. Information Filtering
+information filtering is about selecting items from streams of content to match longer term user needs or preferences.
+
+Collaborative filtering menjawab kebutuhan akan informasi yang kompleks dan tidak dapat dideskripsikan dengan kata atau topik tertentu, seperti kualitas atau rasa. Seseorang mungkin menyukai suatu makanan yang berbahan dasar ayam namun bukan berarti dia menyukai semua maknaan yang berbahan dasar ayam, tapi dia tidak dapat mendeskripsikan kriterianya dengan kata-kata. Tapi dengan melihat preferensi yang dilakukan oleh orang lain yang menyukai hal serupa, kita dapat memperoleh hal yang kemungkinan juga akan kita suka.
+
+Manual Collaborative Filtering vs Automated Collaborative Filtering
+Asumsi pada user-based CF orang-orang memiliki selera yang stabil.
